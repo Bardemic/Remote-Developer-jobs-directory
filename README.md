@@ -23,6 +23,7 @@ Things you can do to increase your chance of success. Making an effort on these 
 <h2>Remote Jobs Directories</h2>
 <ul>
   <li>Meridian: https://meridianremote.com/ (remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds)</li>
+  <li>Emploive: https://emploive.com/jobs/location/remote (remote roles from 88,000+ company career pages, rechecked every 25 minutes; create a tracker to get alerted when a match is posted)</li>
   <li>WeWorkRemotely: https://weworkremotely.com/</li>
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
   <li>RemoteYeah: https://remoteyeah.com/</li>
